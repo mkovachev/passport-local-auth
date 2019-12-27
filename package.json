@@ -1,12 +1,12 @@
 {
-  "name": "current-project",
+  "name": "passport-local-login",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon server.js"
   },
-  "author": "",
+  "author": "MK",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "*",
