@@ -1,0 +1,25 @@
+{
+  "name": "current-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-flash": "*",
+    "express-session": "*",
+    "method-override": "*",
+    "passport": "*",
+    "passport-local": "*"
+  },
+  "devDependencies": {
+    "dotenv": "*",
+    "nodemon": "*"
+  }
+}
